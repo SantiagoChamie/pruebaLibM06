@@ -1,0 +1,72 @@
+/*######################################################################
+//#	G0B1T: HDL EXAMPLES. 2018.
+//######################################################################
+//# 
+//# This program is free software: you can redistribute it and/or modify
+//# it under the terms of the GNU General Public License as published by
+//# the Free Software Foundation, version 3 of the License.
+//#
+//# This program is distributed in the hope that it will be useful,
+//# but WITHOUT ANY WARRANTY; without even the implied warranty of
+//# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+//# GNU General Public License for more details.
+//#
+//# You should have received a copy of the GNU General Public License
+//# along with this program.  If not, see <http://www.gnu.org/licenses/>
+//####################################################################*/
+//=======================================================
+//  MODULE Definition
+//=======================================================
+
+module CC_PLAYER_COMPARATOR(
+//////////// OUTPUTS //////////
+	CC_PLAYER_COMPARATOR_Data_OutBus,
+	CC_PLAYER_COMPARATOR_Lost_OutLow,
+
+//////////// INPUTS //////////
+	CC_PLAYER_COMPARATOR_Player_InBus,
+	CC_PLAYER_COMPARATOR_Obstacle_InBus
+);
+
+//=======================================================
+//  PARAMETER declarations
+//=======================================================
+
+parameter DATAWIDTH = 8;
+//=======================================================
+//  PORT declarations
+//=======================================================
+
+output reg 	[DATAWIDTH-1:0]CC_PLAYER_COMPARATOR_Data_OutBus;
+output reg 	CC_PLAYER_COMPARATOR_Lost_OutLow;
+
+input 		[DATAWIDTH-1:0]CC_PLAYER_COMPARATOR_Player_InBus;
+input 		[DATAWIDTH-1:0]CC_PLAYER_COMPARATOR_Obstacle_InBus;
+
+//=======================================================
+//  REG/WIRE declarations
+//=======================================================
+
+//=======================================================
+//  Structural coding
+//=======================================================
+
+always @(*) begin
+	if(CC_PLAYER_COMPARATOR_Player_InBus & CC_PLAYER_COMPARATOR_Obstacle_InBus)
+		begin 
+			CC_PLAYER_COMPARATOR_Data_OutBus = CC_PLAYER_COMPARATOR_Player_InBus | CC_PLAYER_COMPARATOR_Obstacle_InBus;
+			CC_PLAYER_COMPARATOR_Lost_OutLow = 1'b0;
+		end
+	else 
+		begin
+			CC_PLAYER_COMPARATOR_Data_OutBus = CC_PLAYER_COMPARATOR_Player_InBus | CC_PLAYER_COMPARATOR_Obstacle_InBus;
+			CC_PLAYER_COMPARATOR_Lost_OutLow = 1'b1;
+		end
+end
+
+endmodule
+
+
+
+
+

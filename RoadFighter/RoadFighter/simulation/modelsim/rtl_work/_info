@@ -1,0 +1,514 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/simulation/modelsim
+vBB_SYSTEM
+Z1 !s110 1699401623
+!i10b 1
+!s100 DJ?b96W[2^8Vd2NCBag9A0
+I4h[fEKD[M@J87GKUcbLa33
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1699399982
+8C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/BB_SYSTEM.v
+FC:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/BB_SYSTEM.v
+Z3 L0 21
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1699401623.000000
+!s107 C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/BB_SYSTEM.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter|C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/BB_SYSTEM.v|
+!i113 1
+Z6 o-vlog01compat -work work
+!s92 -vlog01compat -work work +incdir+C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter
+Z7 tCvgOpt 0
+n@b@b_@s@y@s@t@e@m
+vCC_DELAY
+R1
+!i10b 1
+!s100 e47lNlaom3S>gF`;5zPD92
+I3hi?8?dWU9Jd>3<254R:P3
+R2
+R0
+Z8 w1699395870
+8C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/CC_DELAY.v
+FC:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/CC_DELAY.v
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/CC_DELAY.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl|C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/CC_DELAY.v|
+!i113 1
+R6
+Z9 !s92 -vlog01compat -work work +incdir+C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl
+R7
+n@c@c_@d@e@l@a@y
+vCC_JUDGE
+R1
+!i10b 1
+!s100 Wl8CIaZPY_5kcWZB6W4351
+IcFgijYF3d;XR1<WGC5@3n2
+R2
+R0
+R8
+8C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/CC_JUDGE.v
+FC:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/CC_JUDGE.v
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/CC_JUDGE.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl|C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/CC_JUDGE.v|
+!i113 1
+R6
+R9
+R7
+n@c@c_@j@u@d@g@e
+vCC_LEVELMANAGER
+R1
+!i10b 1
+!s100 [:dMH>hGId1:Ci<lRCX?N3
+I2YVd19AB4B`ffRWH9F=;e0
+R2
+R0
+w1699400122
+8C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/CC_LEVELMANAGER.v
+FC:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/CC_LEVELMANAGER.v
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/CC_LEVELMANAGER.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl|C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/CC_LEVELMANAGER.v|
+!i113 1
+R6
+R9
+R7
+n@c@c_@l@e@v@e@l@m@a@n@a@g@e@r
+vCC_LEVELMANAGER_P2
+R1
+!i10b 1
+!s100 gFBg1;<Hmjz;Li5[0^MW=2
+IVOKXVH2z4l^z1[@MM96`i3
+R2
+R0
+w1699400251
+8C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/CC_LEVELMANAGER_P2.v
+FC:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/CC_LEVELMANAGER_P2.v
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/CC_LEVELMANAGER_P2.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl|C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/CC_LEVELMANAGER_P2.v|
+!i113 1
+R6
+R9
+R7
+n@c@c_@l@e@v@e@l@m@a@n@a@g@e@r_@p2
+vCC_MUX3_1
+R1
+!i10b 1
+!s100 >4]MndefIN]]KZeY[=i=L2
+INeGKB3?O]ghS^J`D2DnYF3
+R2
+R0
+R8
+8C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/CC_MUX3_1.v
+FC:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/CC_MUX3_1.v
+Z10 L0 20
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/CC_MUX3_1.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl|C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/CC_MUX3_1.v|
+!i113 1
+R6
+R9
+R7
+n@c@c_@m@u@x3_1
+vCC_PLAYER_COMPARATOR
+R1
+!i10b 1
+!s100 I0FJGzXIV=d;3^>PVN_jZ3
+ImC_OAB`9j8[W8E8k07h9[1
+R2
+R0
+R8
+8C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/CC_PLAYER_COMPARATOR.v
+FC:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/CC_PLAYER_COMPARATOR.v
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/CC_PLAYER_COMPARATOR.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl|C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/CC_PLAYER_COMPARATOR.v|
+!i113 1
+R6
+R9
+R7
+n@c@c_@p@l@a@y@e@r_@c@o@m@p@a@r@a@t@o@r
+vCC_SPEEDCOMPARATOR
+R1
+!i10b 1
+!s100 ?ZGa]M^hP2h=RYg5jl9iH1
+Im0je9@ZInDG``bQ5[?4Rj0
+R2
+R0
+R8
+8C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/CC_SPEEDCOMPARATOR.v
+FC:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/CC_SPEEDCOMPARATOR.v
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/CC_SPEEDCOMPARATOR.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl|C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/CC_SPEEDCOMPARATOR.v|
+!i113 1
+R6
+R9
+R7
+n@c@c_@s@p@e@e@d@c@o@m@p@a@r@a@t@o@r
+vmatrix_ctrl
+R1
+!i10b 1
+!s100 e8fJ::8FZhBf=Yo62HC<D0
+I:6MC02VHYF=OaL:kJeOGN1
+R2
+R0
+R8
+8C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/max7219_ctrl.v
+FC:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/max7219_ctrl.v
+L0 18
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/max7219_ctrl.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl|C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/max7219_ctrl.v|
+!i113 1
+R6
+R9
+R7
+vSC_DEBOUNCE1
+R1
+!i10b 1
+!s100 R1A>6;z02mNBGFV[E4kge0
+I9`?gi7[V51KFoi45`GKG31
+R2
+R0
+R8
+8C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/SC_DEBOUNCE1.v
+FC:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/SC_DEBOUNCE1.v
+L0 44
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/SC_DEBOUNCE1.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl|C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/SC_DEBOUNCE1.v|
+!i113 1
+R6
+R9
+R7
+n@s@c_@d@e@b@o@u@n@c@e1
+vSC_LEVEL_STATEMACHINE
+R1
+!i10b 1
+!s100 lX8EFND9=jN;`gejCei871
+I7YodSAVdff:lhVj:g;H[D1
+R2
+R0
+R8
+8C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/SC_LEVEL_STATEMACHINE.v
+FC:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/SC_LEVEL_STATEMACHINE.v
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/SC_LEVEL_STATEMACHINE.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl|C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/SC_LEVEL_STATEMACHINE.v|
+!i113 1
+R6
+R9
+R7
+n@s@c_@l@e@v@e@l_@s@t@a@t@e@m@a@c@h@i@n@e
+vSC_LEVELCOUNTER
+R1
+!i10b 1
+!s100 :YQV5cLf]`6O7S8ePi`BX2
+IN>nODXBBffCU[WUQn`^?C3
+R2
+R0
+R8
+8C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/SC_LEVELCOUNTER.v
+FC:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/SC_LEVELCOUNTER.v
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/SC_LEVELCOUNTER.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl|C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/SC_LEVELCOUNTER.v|
+!i113 1
+R6
+R9
+R7
+n@s@c_@l@e@v@e@l@c@o@u@n@t@e@r
+vSC_LEVELPROGRESS
+R1
+!i10b 1
+!s100 LD]7Y=5@hXR6Bm6nI2GHa2
+I?B:j=c;SRbQIjgbIchQRR1
+R2
+R0
+R8
+8C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/SC_LEVELPROGRESS.v
+FC:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/SC_LEVELPROGRESS.v
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/SC_LEVELPROGRESS.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl|C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/SC_LEVELPROGRESS.v|
+!i113 1
+R6
+R9
+R7
+n@s@c_@l@e@v@e@l@p@r@o@g@r@e@s@s
+vSC_MAIN_STATEMACHINE
+R1
+!i10b 1
+!s100 ^0Dl3c[O>oHfWRPNG5jdN2
+IS9A;dQzG>j;WEE>jV46[e1
+R2
+R0
+R8
+8C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/SC_MAIN_STATEMACHINE.v
+FC:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/SC_MAIN_STATEMACHINE.v
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/SC_MAIN_STATEMACHINE.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl|C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/SC_MAIN_STATEMACHINE.v|
+!i113 1
+R6
+R9
+R7
+n@s@c_@m@a@i@n_@s@t@a@t@e@m@a@c@h@i@n@e
+vSC_PLAYER_STATEMACHINE
+R1
+!i10b 1
+!s100 RPOh_Gjj>@m;HKCmC=5do2
+Ic@3KImJ7n:lMJ^gSE_IkM2
+R2
+R0
+R8
+8C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/SC_PLAYER_STATEMACHINE.v
+FC:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/SC_PLAYER_STATEMACHINE.v
+R10
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/SC_PLAYER_STATEMACHINE.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl|C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/SC_PLAYER_STATEMACHINE.v|
+!i113 1
+R6
+R9
+R7
+n@s@c_@p@l@a@y@e@r_@s@t@a@t@e@m@a@c@h@i@n@e
+vSC_POINTCOUNTER
+R1
+!i10b 1
+!s100 [d]6mN4ecK6ikTA8Ld>WV0
+Im47]d[18ahmPJ3U1EoHaP3
+R2
+R0
+R8
+8C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/SC_POINTCOUNTER.v
+FC:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/SC_POINTCOUNTER.v
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/SC_POINTCOUNTER.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl|C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/SC_POINTCOUNTER.v|
+!i113 1
+R6
+R9
+R7
+n@s@c_@p@o@i@n@t@c@o@u@n@t@e@r
+vSC_RegGENERAL
+R1
+!i10b 1
+!s100 `_iBYX2@;`[GIfLiY6ggB0
+IXe];Q<9;h=Xm[4oXzN[IU0
+R2
+R0
+R8
+8C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/SC_RegGENERAL.v
+FC:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/SC_RegGENERAL.v
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/SC_RegGENERAL.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl|C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/SC_RegGENERAL.v|
+!i113 1
+R6
+R9
+R7
+n@s@c_@reg@g@e@n@e@r@a@l
+vSC_RegSHIFTER_P1
+R1
+!i10b 1
+!s100 Hb5MBEC[WPGT7?b;0bWlj3
+IkzlzemZHR94<4o97e0[[=3
+R2
+R0
+Z11 w1699395871
+8C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/SC_RegSHIFTER_P1.v
+FC:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/SC_RegSHIFTER_P1.v
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/SC_RegSHIFTER_P1.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl|C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/SC_RegSHIFTER_P1.v|
+!i113 1
+R6
+R9
+R7
+n@s@c_@reg@s@h@i@f@t@e@r_@p1
+vSC_RegSHIFTER_P2
+R1
+!i10b 1
+!s100 Oa3bK=8X98RJFY<h`dlBk0
+Ib7Ezhdd8g_oCV[JE=GAK63
+R2
+R0
+R11
+8C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/SC_RegSHIFTER_P2.v
+FC:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/SC_RegSHIFTER_P2.v
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/SC_RegSHIFTER_P2.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl|C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/SC_RegSHIFTER_P2.v|
+!i113 1
+R6
+R9
+R7
+n@s@c_@reg@s@h@i@f@t@e@r_@p2
+vSC_upSPEEDCOUNTER
+R1
+!i10b 1
+!s100 ]]J^Se7@AbL:]lQeW>NCh0
+Iz2hJF]JkbJQDgSeQOUPb_0
+R2
+R0
+R11
+8C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/SC_upSPEEDCOUNTER.v
+FC:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/SC_upSPEEDCOUNTER.v
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/SC_upSPEEDCOUNTER.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl|C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/SC_upSPEEDCOUNTER.v|
+!i113 1
+R6
+R9
+R7
+n@s@c_up@s@p@e@e@d@c@o@u@n@t@e@r
+vshift_reg_start_done
+R1
+!i10b 1
+!s100 P[k=OFn:ZJUAdXXFS>kmX1
+I]dDI@U8;EI[Vzll[N>6MX2
+R2
+R0
+R11
+8C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/shift_reg_start_done.v
+FC:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/shift_reg_start_done.v
+L0 34
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/shift_reg_start_done.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl|C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/rtl/shift_reg_start_done.v|
+!i113 1
+R6
+R9
+R7
+vTB_SYSTEM
+R1
+!i10b 1
+!s100 lNUXRIY9l06J;4HfMJhof0
+I`2l@XfzMUGmzCg0<3^3[A0
+R2
+R0
+w1699401160
+8C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/simulation/modelsim/TB_SYSTEM.vt
+FC:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/simulation/modelsim/TB_SYSTEM.vt
+L0 19
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/simulation/modelsim/TB_SYSTEM.vt|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/simulation/modelsim|C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/simulation/modelsim/TB_SYSTEM.vt|
+!i113 1
+R6
+!s92 -vlog01compat -work work +incdir+C:/Users/Sab/Documents/Uniandes/Sem4/SED/RoadFighter/RoadFighter/simulation/modelsim
+R7
+n@t@b_@s@y@s@t@e@m
